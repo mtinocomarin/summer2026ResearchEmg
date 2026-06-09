@@ -1,0 +1,5 @@
+﻿Glass
+Mouse
+Phone
+Jar
+Banana
